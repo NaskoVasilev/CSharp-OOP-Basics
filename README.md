@@ -16,3 +16,5 @@ C# OOP Basics course in SoftUni part of C# Fundamentals module
 7. Polymorphism
 
 8. Working with Exceptions
+
+  Final Exam - 500/500 points
